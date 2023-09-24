@@ -12,9 +12,13 @@ To install:
 
 ```bash
 npm i @lexical/clipboard
+```
 
+```bash
 yarn add @lexical/clipboard
+```
 
+```bash
 pnpm add @lexical/clipboard
 ```
 
