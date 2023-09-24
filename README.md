@@ -1,5 +1,5 @@
 ---
-@lexical/clipboard
+lexical/clipboard
 Version
 0.12.2
 ---
